@@ -1,8 +1,12 @@
-# Computer_Vision
+# Computer Vision
 
-exam project 2026 Angellotti Leonardo
+**Exam Project — 2026**  
+*Leonardo Angellotti*
 
-il dataset utilizzato per il training di cnn_scene_classifier è quello originale, operando lo split tra training e validation set con split_dataset.py
+---
 
-il dataset utilizzato per il training di cnn_scene_classifier_improve, cnn_scene_classifier_ensemble e AlexNet è augmented, operando lo split tra training e validation set con split_dataset_augmented.py
+## Dataset Overview
 
+- The dataset used to train **`cnn_scene_classifier`** is the **original dataset**, split into **training** and **validation** sets using the script `split_dataset.py`.
+
+- The dataset used to train **`cnn_scene_classifier_improve`**, **`cnn_scene_classifier_ensemble`**, and **AlexNet** is the **augmented dataset**, split into **training** and **validation** sets using the script `split_dataset_augmented.py`.
